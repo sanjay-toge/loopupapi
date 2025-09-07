@@ -1,0 +1,6 @@
+@LoopUpAPI_HostAddress = http://localhost:5261
+
+GET {{LoopUpAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
